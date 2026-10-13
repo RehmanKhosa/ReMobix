@@ -1,4 +1,1 @@
-window.REMOBIX_CONFIG = {
-  url: "https://dbujkbyubbcqpjtewljq.supabase.co",
-  key: "PASTE_YOUR_SUPABASE_PUBLISHABLE_KEY_HERE"
-};
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRidWprYnl1YmJjcXBqdGV3bGpxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTE4ODg2MjcsImV4cCI6MjEwNzQ2NDYyN30.onZVW-COtrwDuAgvAmdxpN4SOWit5LP4axzFJxihcWM
